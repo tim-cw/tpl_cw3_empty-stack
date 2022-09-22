@@ -10,7 +10,9 @@
     "start": "cross-env NODE_ENV=development gulp",
     "build": "cross-env NODE_ENV=production gulp build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "swiper": "^8.0.7"
+  },
   "devDependencies": {
     "@babel/core": "^7.16.7",
     "@babel/preset-env": "^7.16.8",

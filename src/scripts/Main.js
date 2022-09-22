@@ -1,1 +1,3 @@
-console.log("On va faire du Javascript ici");
+import Icons from "./utils/Icons";
+
+Icons.load();
