@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .wrapper {
-  max-width: 1140px;
-  margin: 0 auto;
-  width: 100%;
+    max-width: $breakpoint-md;
+    margin: 0 auto;
+    width: 100%;
 }
